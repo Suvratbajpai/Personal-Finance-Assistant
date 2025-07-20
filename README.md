@@ -4,7 +4,7 @@ A full-stack web application for managing personal finances with receipt process
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=Zo_1hcF6zNs)
+[![Watch the demo](https://www.youtube.com/watch?v=Zo_1hcF6zNs)
 
 Click the image above to see a full walkthrough of the Personal Finance Assistant.
 
